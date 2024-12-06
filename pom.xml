@@ -9,6 +9,7 @@
   <name>TestingPatterns</name>
   <modules>
     <module>Strategy</module>
+    <module>Observer</module>
   </modules>
 
   <properties>
