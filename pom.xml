@@ -10,6 +10,7 @@
   <modules>
     <module>Strategy</module>
     <module>Observer</module>
+    <module>Decorator</module>
   </modules>
 
   <properties>
