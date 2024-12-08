@@ -13,6 +13,7 @@
     <module>Decorator</module>
     <module>Factory</module>
       <module>Singleton</module>
+      <module>Command</module>
   </modules>
 
   <properties>
